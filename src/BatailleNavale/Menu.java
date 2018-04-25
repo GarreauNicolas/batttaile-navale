@@ -1,4 +1,4 @@
-package bataillenavale;
+package BatailleNavale;
 
 import java.awt.BorderLayout;
 import java.awt.event.ActionEvent;

@@ -1,4 +1,4 @@
-package batteau;
+package Batteau;
 
 public class Batteau {
 	
